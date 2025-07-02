@@ -91,6 +91,10 @@ Action: Expand luxury offerings, personalize experiences, and promote through ex
 Insight: AtliQ Exotica Mumbai performs exceptionally well.  
 Impact: Acts as a benchmark.  
 Action: Identify success factors (e.g., location, service, operations) and replicate across other properties.  
-
 ## Screenshots
+Dashboard
+![Dashboard](https://github.com/simransanghani/Atliq-Hospitality-Analysis/blob/main/Snapshot%20of%20Dashboard/Snapshot%20of%20Dashboard.png)
 
+## Project Outcome
+
+By Using this Report, Data Driven Decisions can be taken. 
